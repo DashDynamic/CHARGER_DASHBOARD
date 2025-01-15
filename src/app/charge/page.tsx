@@ -796,7 +796,7 @@ const Charge = () => {
             </span>
           </motion.div>
 
-          <motion.div
+{/*           <motion.div
             className="group shadow-[0_0_0_1px_rgba(255,255,255,0.1)_inset] px-8 py-4 bg-black/20 backdrop-blur-sm rounded-lg text-gray-400 text-xl font-bold w-full text-center hover:shadow-[0_0_0_1px_rgba(6,182,212,0.2)_inset] transition-all duration-300 hover:bg-black/30"
             initial={{ opacity: 0, y: 20 }}
             animate={{ opacity: 1, y: 0 }}
@@ -806,7 +806,7 @@ const Charge = () => {
             <span className="group-hover:text-cyan-400/90 transition-colors duration-300 text-nowrap">
               {energy.toFixed(5)} kWh
             </span>
-          </motion.div>
+          </motion.div> */}
 
           <motion.div
             className="group shadow-[0_0_0_1px_rgba(255,255,255,0.1)_inset] px-8 py-4 bg-black/20 backdrop-blur-sm rounded-lg text-gray-400 text-xl font-bold w-full text-center hover:shadow-[0_0_0_1px_rgba(6,182,212,0.2)_inset] transition-all duration-300 hover:bg-black/30"
